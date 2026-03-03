@@ -1,0 +1,2 @@
+-- script tables
+SHOW TABLES;
